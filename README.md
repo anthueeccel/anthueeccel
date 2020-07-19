@@ -29,7 +29,7 @@
 
 #### Study project
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
 ![Outsystems](http://img.shields.io/badge/-OutSystems-0078D6?style=flat-square&logo=outsystems&logoColor=ffffff)
 
 
