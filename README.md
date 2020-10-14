@@ -1,6 +1,6 @@
 #### Greetings from Anthue.
 
-:computer: _Analist developer at [HBSIS | AMBEV](https://hbsis.com.br/) subsidiary of AB-Inbev_ 
+:computer: _Analyst developer at [HBSIS | AMBEV](https://hbsis.com.br/) subsidiary of AB-Inbev_ 
 
 :printer: _Developing for **Frotas** team (logistics, company's fleet management)_
 
@@ -31,6 +31,7 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
 ![Outsystems](http://img.shields.io/badge/-OutSystems-0078D6?style=flat-square&logo=outsystems&logoColor=ffffff)
+![MongoDb](http://img.shields.io/badge/-MongoDb-3DDC88?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 
 <!--
