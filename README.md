@@ -28,10 +28,10 @@
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
 #### Study project
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
-![Outsystems](http://img.shields.io/badge/-OutSystems-0078D6?style=flat-square&logo=outsystems&logoColor=ffffff)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-3DDC88?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
 
 
 <!--
