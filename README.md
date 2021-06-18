@@ -32,7 +32,7 @@
 ![MongoDb](http://img.shields.io/badge/-MongoDb-3DDC88?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-
+![Anthue's github stats](https://github-readme-stats.vercel.app/api?username=anthueeccel&show_icons=true&hide_border=true)
 
 <!--
 **anthueeccel/anthueeccel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
