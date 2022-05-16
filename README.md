@@ -7,25 +7,27 @@ I am | My Github Stats
 
 ### Main Stack
 
-![.Net 6](http://img.shields.io/badge/-DotNet_Core-007396?style=flat-square&logo=.net&logoColor=ffffff)
+![.Net 6](http://img.shields.io/badge/-DotNet-007396?style=flat-square&logo=.net&logoColor=ffffff)
+![Azure](http://img.shields.io/badge/-Azure_Portal-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![AzureDevOps](http://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 
 #### Aditional Stack
 ![gRPC](http://img.shields.io/badge/-<>_gRPC-00A98F?style=flat-square&logo=grpc&logoColor=ffffff)
-![Azure](http://img.shields.io/badge/-Microsoft_Azure-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VisualStudio](http://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![dBeaver](http://img.shields.io/badge/-DB%20DBeaver-F37440?style=flat-square&logo=dbeaver&logoColor=ffffff)
+![Azure ServiceBus Explorer](http://img.shields.io/badge/Azure_ServiceBus-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![Postman](http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![dBeaver](http://img.shields.io/badge/-DB%20DBeaver-F37440?style=flat-square&logo=dbeaver&logoColor=ffffff)
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Azure Storage Explorer](http://img.shields.io/badge/Azure_Storage-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 
 #### Knowledge
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
