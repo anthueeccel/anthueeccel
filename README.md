@@ -1,6 +1,6 @@
 I am | My Github Stats
 -------- | ---------------- 
-:computer: _Software Developer at [CONCEPT](https://concept.shijigroup.com/) subsidiary of [Shiji Group](https://www.shijigroup.com/)_ <br><br> :keyboard::computer_mouse: _Developing back-end web api solutions_ <br><br> :house: _Working from office in Portugal_ | ![Anthue's github stats](https://github-readme-stats.vercel.app/api?username=anthueeccel&theme=graywhite&show_icons=true&hide_border=true&custom_title=%20&hide=stars)
+:computer: _Software Developer at [CONCEPT](https://concept.shijigroup.com/) subsidiary of [Shiji Group](https://www.shijigroup.com/)_ <br><br> :keyboard::computer_mouse: _Developing back-end web api solutions_ <br><br> :house: _Remotly working from home_ | ![Anthue's github stats](https://github-readme-stats.vercel.app/api?username=anthueeccel&theme=graywhite&show_icons=true&hide_border=true&custom_title=%20&hide=stars)
 
 [![linkedin](http://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anthue/)
 [![twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/anthue)
