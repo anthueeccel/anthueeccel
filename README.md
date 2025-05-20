@@ -7,10 +7,11 @@ I am | My Github Stats
 
 ### Main Stack
 
-![.Net 6](http://img.shields.io/badge/-DotNet-007396?style=flat-square&logo=.net&logoColor=ffffff)
+![.Net](http://img.shields.io/badge/-8-007396?style=flat-square&logo=.net&logoColor=ffffff)
 ![Azure](http://img.shields.io/badge/-Azure_Portal-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![AzureDevOps](http://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+![.Net](http://img.shields.io/badge/-EF-007396?style=flat-square&logo=.net&logoColor=ffffff)
 
 #### Aditional Stack
 ![gRPC](http://img.shields.io/badge/-<>_gRPC-00A98F?style=flat-square&logo=grpc&logoColor=ffffff)
@@ -23,13 +24,13 @@ I am | My Github Stats
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VisualStudio](http://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![dBeaver](http://img.shields.io/badge/-DB%20DBeaver-F37440?style=flat-square&logo=dbeaver&logoColor=ffffff)
-![Azure ServiceBus Explorer](http://img.shields.io/badge/Azure_ServiceBus-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![Postman](http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Azure Storage Explorer](http://img.shields.io/badge/Azure_Storage-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 
 #### Knowledge
+![Azure ServiceBus Explorer](http://img.shields.io/badge/Azure_ServiceBus-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
+![Azure Storage Explorer](http://img.shields.io/badge/Azure_Storage-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
