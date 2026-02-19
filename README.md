@@ -1,6 +1,7 @@
-I am | My Github Stats
--------- | ---------------- 
-:computer: _Software Developer at [Shiji Group](https://www.shijigroup.com/)_ <br><br> :keyboard::computer_mouse: _Developing back-end web api and Oracle db packages solutions_ <br><br> :house: _Remotly working from home_ | ![Anthue's github stats](https://github-readme-stats.vercel.app/api?username=anthueeccel&theme=graywhite&show_icons=true&hide_border=true&custom_title=%20&hide=stars)
+
+:computer: _Software Developer at [Shiji Group](https://www.shijigroup.com/)_ <br>
+:keyboard::computer_mouse: _Developing back-end web api and Oracle db packages solutions_ <br>
+:house: _Remotly working from home_
 
 [![linkedin](http://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anthue/)
 [![twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/anthue)
@@ -11,7 +12,6 @@ I am | My Github Stats
 ![Azure](http://img.shields.io/badge/-Azure_Portal-0078D7?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 ![AzureDevOps](http://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle%20Db-%23E44D27?style=flat-square&logo=oracledb&logoColor=ffffff)
-![.Net](http://img.shields.io/badge/-EF-007396?style=flat-square&logo=.net&logoColor=ffffff)
 
 #### Aditional Stack
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
