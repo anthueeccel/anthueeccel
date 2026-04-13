@@ -34,7 +34,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
 
 ### Certificates
-
+[![Microsoft Certified AZ900](https://shields.io/badge/Azure%20Fundamentals-AZ900-0078D7?logo=microsoftazure&logoColor=white&style=plastic)](https://credly.com/badges/b43a819d-9a27-4bc4-a58a-43088694cf62)
 
 <!---
 https://simpleicons.org/?q=pyt/ 
